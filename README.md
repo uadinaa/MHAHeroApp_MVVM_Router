@@ -4,6 +4,11 @@
 
 HeroApp is an iOS application that fetches and displays heroes from the My Hero Academia universe using the MVVM architecture. It provides a visually appealing and smooth user experience with animated transitions, search functionality, and a detailed hero information view.
 
+### Demo Video
+
+https://drive.google.com/drive/folders/1S6SwK18PMAvKTLX6m1iA6b4qTvoD2rE2?usp=sharing
+
+
 ## Features
 
 Hero List Display
@@ -72,7 +77,3 @@ HeroApp/
 │── Router/       # Navigation handling
 │── Resources/    # Assets & UI-related files
 
-
-### Demo Video
-
-https://drive.google.com/drive/folders/1S6SwK18PMAvKTLX6m1iA6b4qTvoD2rE2?usp=sharing
